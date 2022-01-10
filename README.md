@@ -2,7 +2,7 @@
 
 Demo for tutorials that help you create a new Next.js app that can dynamically pull in character information and add animations with Framer.js.
 
-Learn how to create your own with [How to Create a Dynamic Rick and Morty Wiki Web App with Next.js](https://github.com/TravelXML/RICK-AND-MORTY-API-NEXTJS)
+Learn how to create your own with [How to Create a Dynamic Rick and Morty Wiki Web App with Next.js](https://github.com/TravelXML/RICK-AND-MORTY-API-NEXT)
 
 ## Implementation
 
