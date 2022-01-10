@@ -24,7 +24,7 @@ GET any 2 characters from the Rick and Morty API that interest you using the 'ch
 
 ### `http://localhost:3000/` - Male AND Alive OR / default
 ### `http://localhost:3000/female` - Female AND Dead
-### `http://localhost:3000/locations` - locations that are of type planet
+### `http://localhost:3000/locations` - locations that are planet
 ### `http://localhost:3000/character/{id}` - Individual Character Details
 
 ## Screenshots
@@ -40,7 +40,7 @@ GET any 2 characters from the Rick and Morty API that interest you using the 'ch
 ![image](https://user-images.githubusercontent.com/8361967/148732431-93214111-03f7-433f-8fec-8de3e3a2bfe5.png)
 
 
-### `http://localhost:3000/locations` - locations that are of type planet
+### `http://localhost:3000/locations` - locations that are planet
 
 
 ![image](https://user-images.githubusercontent.com/8361967/148732488-1c9adc44-bed2-44b8-bf74-47d66510ca41.png)
