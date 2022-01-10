@@ -12,7 +12,8 @@ const defaultEndpoint = process.env.RICKNMORTYLOCATIONENDPOINT;
 export async function getServerSideProps() {
   const res = await fetch(defaultEndpoint)
   const data = await res.json();
-  //fs.writeFileSync(process.env.LOGDIR+'/'+Date.now()+'.txt', JSON.stringify(data));
+  //fs.writeFileSync(process.env.LOGDIR+'/'+Date.now()+'.'+process.env.DEFAULTLOGTYPE, JSON.stringify(data));
+
   return {
     props: {
       data
