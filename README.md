@@ -7,7 +7,7 @@ Learn how to create your own with [How to Create a Dynamic Rick and Morty Wiki W
 
 ## DEMO
 
-**Would you like to see demo right? I believe know the answer, you can click below link.**
+**Would you like to see demo right away? believe i know the answer, you can click below link.**
 
 [🖕 Here you can find Rick and Morty API Document for REST implementation.](https://rickandmortyapi.com/documentation/#rest)
 
@@ -18,10 +18,9 @@ GET any 2 characters from the Rick and Morty API that interest you using the 'ch
 * Female AND Dead
 * List all the locations that are of type planet.
 
-## [🤞 CLICK here to see Rick and Morty API with Next.js and Mocha](https://rickmortyapi-next.vercel.app/)
-
 
 ## Getting started locally
+
 * Run the below commands.
 * `yarn install`
 * `yarn dev`
