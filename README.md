@@ -68,7 +68,7 @@ Testing file you can locate in `/test` folder, you can add more test cases into 
 Just Go to your Project Directory and run command `mocha`, it will execute all test cases written on that folder.
 
 
-![image](https://user-images.githubusercontent.com/8361967/148733223-a360f282-5d70-4857-81c8-4687a085aac2.png)
+![image](https://user-images.githubusercontent.com/8361967/148737388-20ad8c0c-6515-4f16-bab0-73f79c0e9531.png)
 
 
 Happy Coding! ❤️
