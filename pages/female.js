@@ -6,7 +6,7 @@ import globalStyles from '../assets/styles/global.js';
 import { navLinks } from "../src/data";
 
 
-const fs = require('fs');
+//const fs = require('fs');
 const defaultEndpoint = process.env.RICKNMORTYFEMALEENDPOINT;
 
 export async function getServerSideProps() {
