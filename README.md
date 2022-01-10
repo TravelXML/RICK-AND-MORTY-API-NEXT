@@ -15,7 +15,7 @@ GET any 2 characters from the Rick and Morty API that interest you using the 'ch
 
 
 ## Getting started locally
-* Run these below commands
+* Run the below commands.
 * `yarn install`
 * `yarn dev`
 * 🚀
@@ -61,16 +61,16 @@ logs are saved into `/logs` folder in JSON Format.
 
 ## Testing
 
-Testing file you can locate in `/test` folder, you can add more test cases, here fouced at very basic test cases for endpoints.
+Testing file you can locate in `/test` folder, you can add more test cases into this, but here fouced at very basic test cases for the endpoints.
 
 ## How to Run?
 
-Just Go to your Project Directory and run command `mocha` it will execute all test cases written on that folder.
+Just Go to your Project Directory and run command `mocha`, it will execute all test cases written on that folder.
 
 
 ![image](https://user-images.githubusercontent.com/8361967/148733223-a360f282-5d70-4857-81c8-4687a085aac2.png)
 
 
-Enjoy Coding!
+Happy Coding! ❤️
 
 
