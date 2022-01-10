@@ -5,11 +5,16 @@ Demo for tutorials that help you create a new Next.js app that can dynamically p
 Learn how to create your own with [How to Create a Dynamic Rick and Morty Wiki Web App with Next.js](https://github.com/TravelXML/RICK-AND-MORTY-API-NEXT)
 
 
+### API Documents
+
+[🖕 Find the  Rick and Morty API for REST Implementation.](https://rickandmortyapi.com/documentation/#rest)
+
+
 ## DEMO
 
 **Would you like to see demo right away? believe i know the answer, you can click below link.**
 
-[🖕 Here you can find Rick and Morty API Document for REST implementation.](https://rickandmortyapi.com/documentation/#rest)
+[🖕 Here you can find Rick and Morty API Document for REST implementation.](https://rickmortyapi-next.vercel.app/)
 
 ## Implementation
 
