@@ -13,6 +13,8 @@ GET any 2 characters from the Rick and Morty API that interest you using the 'ch
 * Female AND Dead
 * List all the locations that are of type planet.
 
+[🤞 View Live Click here](https://rickmortyapi-next.vercel.app/)
+
 
 ## Getting started locally
 * Run the below commands.
