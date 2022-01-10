@@ -13,7 +13,7 @@ GET any 2 characters from the Rick and Morty API that interest you using the 'ch
 * Female AND Dead
 * List all the locations that are of type planet.
 
-## [🤞 Rick and Morty API with Next.js and Mocha here](https://rickmortyapi-next.vercel.app/)
+## [🤞 CLICK here to see Rick and Morty API with Next.js and Mocha](https://rickmortyapi-next.vercel.app/)
 
 
 ## Getting started locally
